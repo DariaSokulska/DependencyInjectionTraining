@@ -1,0 +1,4 @@
+﻿<Config>
+<Name>Joe</Name>
+<Surname>Doe</Surname>
+</Config>
